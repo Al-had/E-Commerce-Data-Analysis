@@ -1,4 +1,4 @@
-                                                                                        E-COMMERCE DATA ANALYSIS DASHBOARD
+E-COMMERCE DATA ANALYSIS DASHBOARD
                                                                                            
 A Python-based web scraping and dashboard project that collects book data from Books to Scrapeand displays it interactively in a Streamlit dashboard with real-time auto-refresh and filtering options.
 
