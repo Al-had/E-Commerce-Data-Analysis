@@ -25,3 +25,9 @@ This project scrapes book details from an online e-commerce bookstore and stores
 - Streamlit – For creating interactive dashboards,
 - pandas – Data analysis,
 - streamlit-autorefresh – For automatic dashboard refresh.
+
+
+<img width="1920" height="836" alt="Screenshot 2025-09-05 144239" src="https://github.com/user-attachments/assets/24fba3b5-d944-4e33-a9eb-11586f6c3eec" />  
+<img width="1920" height="834" alt="Screenshot 2025-09-04 171740" src="https://github.com/user-attachments/assets/c3ae88b6-7b7f-4097-9d5b-533425f9a6b5" />
+
+
